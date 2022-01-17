@@ -14,7 +14,7 @@ struct ContentView: View {
                 .font(.title)
                 .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
                 .foregroundColor(.blue)
-                .fixedSize()
+
             Text("Hello, world!")
                 .foregroundColor(.red)
                 .padding()
